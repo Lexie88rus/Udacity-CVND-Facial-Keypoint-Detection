@@ -47,7 +47,7 @@ class Net(nn.Module):
 
         self.dropout4 = nn.Dropout(p = 0.5)
 
-        self.fc1 = nn.Linear(6400, 1000)
+        self.fc1 = nn.Linear(43264, 1000)
 
         self.dropout5 = nn.Dropout(p = 0.5)
 
