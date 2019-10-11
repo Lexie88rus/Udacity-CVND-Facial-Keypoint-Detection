@@ -12,4 +12,4 @@ The complete computer vision pipeline consists of:
 2. Detecting 68 facial keypoints with CNN with architecture based on [this paper](https://arxiv.org/pdf/1710.00977.pdf).
 
 ## Examples
-
+![image](https://github.com/Lexie88rus/Udacity-CVND-Facial-Keypoint-Detection/raw/master/assets/demo_image.jpg)
